@@ -1,4 +1,4 @@
-### Hi there 👋! You can call me Nasah
+### Hi there 👋! You can call me Nas
 
 <!--
 **Nasah-Kuma/Nasah-Kuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
