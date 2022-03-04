@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love blogging and connecting others to opportunities
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasah-Kuma&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasah-Kuma&show_icons=true&theme=cobalt)
