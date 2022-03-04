@@ -1,4 +1,4 @@
-### Hi there 👋! You can call me Nas
+### Hi there 👋 You can call me Nasah!
 
 <!--
 **Nasah-Kuma/Nasah-Kuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on <a href="https://gitlab.gnome.org/GNOME/gjs" target="_blank">GJS</a> short for GNOME's JavaScript Debugger. Find my contributions <a href="https://gitlab.gnome.org/GNOME/gjs/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=Nasah-Kuma" target="_blank">here<a/> 
-- 🌱 I’m currently learning C++ and backend development with Node.js.
+- 🌱 I’m currently learning how to write C++ code and developing APIs with Node.js.
 - 👯 I’m an angular developer.
 - 💬 Ask me about open source.
 - 📫 Let's link up on <a href="https://www.linkedin.com/in/nasah-kuma-6b8295145/" target="_blank">linkedIn</a> and <a href="https://twitter.com/NasahKuma" target="_blank">twitter</a>.
