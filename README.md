@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasah-Kuma)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasah-Kuma&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 - 🔭 I’m currently working on <a href="https://gitlab.gnome.org/GNOME/gjs" target="_blank">GJS</a> short for GNOME's JavaScript Debugger. Find my contributions <a href="https://gitlab.gnome.org/GNOME/gjs/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=Nasah-Kuma" target="_blank">here.<a/> 
@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love blogging and connecting others to opportunities
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasah-Kuma)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasah-Kuma&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
