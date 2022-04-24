@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 Let's link up on <a href="https://www.linkedin.com/in/nasah-kuma-6b8295145/" target="_blank">linkedIn</a> and <a href="https://twitter.com/NasahKuma" target="_blank">twitter</a>.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love <a href="https://nasahnashdeveloper.com/category/open-source-stories/">blogging</a> and connecting people to opportunities.
-- ✨ I am working towards becoming a browser engine engineer and a developer advocate who will encourage diversity in open source.
+- ✨ I am working towards becoming a browser engine engineer and a developer advocate for open source technologies.
 
  <br>
 
