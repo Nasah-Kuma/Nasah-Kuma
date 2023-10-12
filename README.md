@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasah-Kuma&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 -->
 - 👯 I’m an angular developer.
-- 🌱 I am very much interested in open source.
+- 🌱 I am enthusiastic about open source, Web 3 and web accessibility 🌱
+- 😄 My pronouns are She/Her
+- ⚡ I love <a href="https://www.mantohnasah.com/blog/">blogging</a> and connecting people to opportunities.
+- ✨ I aspire to become a developer advocate (for open source technologies) and to build the next big tech company in Africa ✨
 - 📫 Let's link up on <a href="https://www.linkedin.com/in/mantoh-nasah-kuma-6b8295145/" target="_blank">linkedIn</a> and <a href="https://twitter.com/nasahkuma_" target="_blank">twitter</a>.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love <a href="https://nasahnashdeveloper.com/category/open-source-stories/">blogging</a> and connecting people to opportunities.
-- ✨ I plan on becoming a browser engine engineer and a developer advocate for open source technologies.
 
  <br>
 
