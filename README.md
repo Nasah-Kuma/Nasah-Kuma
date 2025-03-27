@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasah-Kuma&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 -->
-- 👯 I’m an angular developer.
-- 🌱 I am enthusiastic about open source, Web 3 and web accessibility 🌱
-- 😄 My pronouns are She/Her
-- ⚡ I love <a href="https://www.mantohnasah.com/blog/">blogging</a> and connecting people to opportunities.
-- ✨ I aspire to become a developer advocate (for open source technologies) and to build the next big tech company in Africa ✨
-- 📫 Let's link up on <a href="https://www.linkedin.com/in/mantoh-nasah-kuma-6b8295145/" target="_blank">linkedIn</a> and <a href="https://twitter.com/nasahkuma_" target="_blank">twitter</a>.
+- 👯 I’m am a fullstack developer.
+- 🌱 I contribute to GNOME JavaScript Bindings(GJS) 🌱
+- ⚡ I focus on building accessible products 🌱
+- ✨ My pronouns are She/Her
+- ✨ I could become a developer advocate somewhere down the line but let's see 😄
+- 📫 Let's link up on <a href="https://www.linkedin.com/in/mantoh-nasah-kuma-6b8295145/" target="_blank">linkedIn</a> and <a href="https://twitter.com/nasahkuma_" target="_blank">X</a>.
 
  <br>
 
